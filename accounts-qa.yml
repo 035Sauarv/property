@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to account related local QA APIs"
+  contactDetails:
+    name: "pqr"
+    email: "pqr@gmail.com"
+  onCallSupport:
+    -7745078781

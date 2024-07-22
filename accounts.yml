@@ -1,0 +1,10 @@
+  build:
+    version: "3.0"
+
+  accounts:
+    message: "Welcome to account related local APIs"
+    contactDetails:
+      name: "Saurav Deshmane"
+      email: "sauravdeshmane095@gmail.com"
+    onCallSupport:
+      -7745078781

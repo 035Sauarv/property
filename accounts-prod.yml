@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to account related local PROD APIs"
+  contactDetails:
+    name: "xyz"
+    email: "xyz@gmail.com"
+  onCallSupport:
+    -7745078781

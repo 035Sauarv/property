@@ -5,6 +5,6 @@ accounts:
   message: "Welcome to account related local PROD APIs"
   contactDetails:
     name: "xyz"
-    email: "xyz@gmail.com"
+    email: "{cipher}5e0f09682d07e347630ed1de3eeb52f975670db9219a516ed6abb5f9580ec89d"
   onCallSupport:
     -7745078781

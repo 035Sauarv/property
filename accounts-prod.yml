@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to account related local PROD APIs"
+  message: "Welcome to account related local PRODUCTION APIs"
   contactDetails:
     name: "xyz"
     email: "{cipher}5e0f09682d07e347630ed1de3eeb52f975670db9219a516ed6abb5f9580ec89d"

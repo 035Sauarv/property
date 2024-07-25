@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to account related local PROD APIs"
+  message: "Welcome to account related local PRODUCTION APIs"
   contactDetails:
     name: "xyz"
     email: "xyz@gmail.com"
